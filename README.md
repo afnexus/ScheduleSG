@@ -1,2 +1,2 @@
-# CalSG
+# ScheduleSG
 Scheduling Builder for anyone.
